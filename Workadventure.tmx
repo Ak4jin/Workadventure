@@ -315,6 +315,7 @@
   <object id="97" x="896" y="32.3333" width="15" height="308.667"/>
   <object id="98" x="1104" y="34" width="15" height="303"/>
   <object id="100" x="1856" y="336.667" width="14.6667" height="592.667"/>
+  <object id="101" x="1906" y="868"/>
  </objectgroup>
  <layer id="8" name="Wanddeko" width="136" height="80">
   <data encoding="csv">
