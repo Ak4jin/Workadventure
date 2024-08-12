@@ -1571,22 +1571,6 @@
         {
          "firstgid":25981,
          "source":"WA_Other_Furniture.tsx"
-        }, 
-        {
-         "firstgid":26605,
-         "source":"..\/..\/..\/Schreibtisch\/Development-git\/map-starter-kit-master\/src\/PC Computer - Stardew Valley - Furniture.tsx"
-        }, 
-        {
-         "firstgid":32278,
-         "source":"..\/..\/..\/Schreibtisch\/Development-git\/map-starter-kit-master\/src\/Room_Builder_free_16x16.tsx"
-        }, 
-        {
-         "firstgid":32669,
-         "source":"..\/..\/..\/Schreibtisch\/Development-git\/map-starter-kit-master\/src\/office-skizze.pdf.tsx"
-        }, 
-        {
-         "firstgid":35903,
-         "source":"..\/..\/..\/Schreibtisch\/Development-git\/map-starter-kit-master\/src\/WA_Other_Furniture.tsx"
         }],
  "tilewidth":16,
  "type":"map",
