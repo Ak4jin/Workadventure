@@ -1920,19 +1920,6 @@
          "tilecount":1075,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":16,
-         "firstgid":7498,
-         "image":"..\/Workadventure-3\/tilesets\/Interiors_free_32x32.png",
-         "imageheight":2848,
-         "imagewidth":512,
-         "margin":0,
-         "name":"Interiors_free_32x32",
-         "spacing":0,
-         "tilecount":1424,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
