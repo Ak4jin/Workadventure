@@ -2194,6 +2194,56 @@
          "tilecount":2,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":7041,
+         "image":"tilesets\/Wateranimations.png",
+         "imageheight":640,
+         "imagewidth":256,
+         "margin":0,
+         "name":"Wateranimations",
+         "spacing":0,
+         "tilecount":160,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":250,
+                         "tileid":107
+                        }, 
+                        {
+                         "duration":250,
+                         "tileid":106
+                        }, 
+                        {
+                         "duration":250,
+                         "tileid":108
+                        }, 
+                        {
+                         "duration":250,
+                         "tileid":110
+                        }, 
+                        {
+                         "duration":250,
+                         "tileid":111
+                        }, 
+                        {
+                         "duration":250,
+                         "tileid":108
+                        }, 
+                        {
+                         "duration":250,
+                         "tileid":109
+                        }, 
+                        {
+                         "duration":250,
+                         "tileid":106
+                        }],
+                 "id":0
+                }],
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
