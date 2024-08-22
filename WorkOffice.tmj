@@ -1435,12 +1435,80 @@
                  "type":"area",
                  "visible":true,
                  "width":1689.33333333333,
-                 "x":2,
+                 "x":9,
                  "y":287.666666666667
+                }, 
+                {
+                 "height":276.333,
+                 "id":469,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1052.33,
+                 "x":1.33500000000004,
+                 "y":775.3335
+                }, 
+                {
+                 "height":276.333,
+                 "id":470,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1052.33,
+                 "x":643.835,
+                 "y":774.8335
+                }, 
+                {
+                 "height":276.333,
+                 "id":471,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1157.33,
+                 "x":538.835,
+                 "y":0.833499999999958
+                }, 
+                {
+                 "height":276.333,
+                 "id":472,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1036.33,
+                 "x":-102.165,
+                 "y":5.83349999999996
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -1543,7 +1611,7 @@
          "y":0
         }],
  "nextlayerid":117,
- "nextobjectid":467,
+ "nextobjectid":473,
  "orientation":"orthogonal",
  "properties":[
         {

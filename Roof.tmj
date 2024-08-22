@@ -438,7 +438,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":516,
+                 "height":578,
                  "id":7,
                  "name":"",
                  "properties":[
@@ -452,7 +452,7 @@
                  "visible":true,
                  "width":725,
                  "x":233,
-                 "y":60
+                 "y":30
                 }],
          "opacity":1,
          "type":"objectgroup",
