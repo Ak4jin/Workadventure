@@ -7429,8 +7429,8 @@
           "name": "",
           "visible": true,
           "x": 233,
-          "y": 60,
-          "height": 516,
+          "y": 30,
+          "height": 578,
           "properties": [
             {
               "name": "focusable",
@@ -8694,7 +8694,7 @@
     {
       "columns": 13,
       "firstgid": 1,
-      "image": "Roof-chunk-1-e7d46d8e.png",
+      "image": "Roof-chunk-1-e27aa453.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
